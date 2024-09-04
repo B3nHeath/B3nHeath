@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ben and I am slowly developing my coding skills! I got my introduction through some quantitative research projects within my masters programme, and I have been slowly learning and developing my skills in both data and general programmatic skills. 
+My name is Ben and I am slowly developing my coding skills! I got my introduction through some quantitative research projects within my masters programme, and I have been slowly learning and developing my skills in both data and general programming challenges. 
 
 ### Contact:
 
